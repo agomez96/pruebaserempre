@@ -1,4 +1,4 @@
-# Laravel 7 with AdminLTE 3
+# Prueba de ingreso
 
 ## How to use
 
@@ -9,6 +9,7 @@
 - Run __php artisan key:generate__
 - Run __php artisan migrate__
 - Run __php artisan serve__ (if you want to use other port add __--port=90__)
+- Run __npm install__
 - You can __register__ by clicking on top-right
 
 ## License
